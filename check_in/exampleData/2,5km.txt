@@ -1,0 +1,1 @@
+34;2,5km;M20;Mustermann;Max;Test;1998
